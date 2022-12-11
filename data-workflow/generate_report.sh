@@ -35,7 +35,7 @@ while IFS= read -r line; do
 
     # Format the fields
     time=${fields[0]}
-    avg_reserved_spots=$(printf "%0.2f" ${fields[1]})
+    avg_reserved_spots=$(printf "%s" ${fields[1]})
     most_occupied_value=${fields[2]}
     least_occupied_value=${fields[3]}
 
