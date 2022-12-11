@@ -1,0 +1,257 @@
+{
+  "nhits": 47,
+  "parameters": {
+    "dataset": "bloklocaties-gent",
+    "rows": 10,
+    "start": 0,
+    "format": "json",
+    "timezone": "UTC"
+  },
+  "records": [
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "b879da7f4c9f52923fb09b82c9f27e2b118e5efd",
+      "fields": {
+        "geo_punt": [51.009771800126266, 3.791473899964183],
+        "y_coordinate": "6623022.4231",
+        "adres": "Brusselsesteenweg 161, 9090 Melle",
+        "titel": "Bib Melle",
+        "teaser_img_url": "https://www.hogent.be/sites/hogent/assets/File/Campusbeelden/melle.jpg",
+        "tag_2": "Morgen nog beschikbaar, Week",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "422064.9439",
+        "totale_capaciteit": 50,
+        "datum_reservatie": "2022-12-12",
+        "id": 40,
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/40",
+        "tag_1": "Geen reservatie nodig",
+        "label_1": "HOGENT campus Melle",
+        "coordinates": "422064.9439, 6623022.4231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.791473899964183, 51.009771800126266]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "bb44d991ce1b0599dbb0d3fc0ce3bc8d55334c09",
+      "fields": {
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/30",
+        "label_1": "Ons Huis ABVV",
+        "coordinates": "414648.3291, 6631458.4975",
+        "geo_punt": [51.057428750071246, 3.7248493156515123],
+        "y_coordinate": "6631458.4975",
+        "adres": "Meerseniersstraat 12, 9000 Gent",
+        "titel": "Ons Huis ABVV",
+        "teaser_img_url": "https://1.bp.blogspot.com/-ad2Q-ue79UI/WaQ6CN3h0BI/AAAAAAACHwQ/fOtPl_a7mmoo4gLQInUk_s42HIx7kOmSQCLcBGAs/s1600/building-2641100_1920.jpg",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "414648.3291",
+        "totale_capaciteit": 20,
+        "id": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7248493156515123, 51.057428750071246]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "6d9853651c172109f3eb72b7447504de45b0115a",
+      "fields": {
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/33",
+        "label_1": "Campus Merelbeke Diergeneeskunde",
+        "coordinates": "419143.8933, 6621031.8525",
+        "geo_punt": [50.99851955026043, 3.7652336559675175],
+        "y_coordinate": "6621031.8525",
+        "adres": "Salisburylaan 133, Merelbeke",
+        "titel": "Resto Diergeneeskunde",
+        "teaser_img_url": "https://beeld.ugent.be/files/photos/.78726/w940q85_Z2017_099_005.jpg",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "419143.8933",
+        "totale_capaciteit": 75,
+        "id": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7652336559675175, 50.99851955026043]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "11b993422360d3ce371579701d81a376e5c1bdda",
+      "fields": {
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/43",
+        "label_1": "Campus Coupure",
+        "coordinates": "412727.423, 6630701.0516",
+        "geo_punt": [51.05315180016391, 3.707593522561628],
+        "y_coordinate": "6630701.0516",
+        "adres": "Coupure Links 653, Gent",
+        "titel": "Resto Bio-ingenieurswetenschappen",
+        "teaser_img_url": "https://beeld.ugent.be/files/photos/.114274/h1600q85_04_Coupure_01.jpg",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "412727.423",
+        "totale_capaciteit": 60,
+        "id": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.707593522561628, 51.05315180016391]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "ba9508cfec39b7afdf90ddfbee39cbbead99f14e",
+      "fields": {
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/35",
+        "label_1": "Oud Gerechtsgebouw",
+        "coordinates": "414237.3135, 6630070.7191",
+        "geo_punt": [51.04959230021894, 3.721157099696596],
+        "y_coordinate": "6630070.7191",
+        "adres": "Koophandelsplein 23, 9000 Gent",
+        "titel": "Oud Gerechtsgebouw",
+        "teaser_img_url": "https://images0.persgroep.net/rcs/cELT87duWwwZemQSrFmfiWRuTkQ/diocontent/143209200/_fill/1350/900/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "414237.3135",
+        "totale_capaciteit": 10,
+        "id": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.721157099696596, 51.04959230021894]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "a2c0d7d089542c28a3151d53d76e5be3a0442f3b",
+      "fields": {
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/46",
+        "label_1": "HOGENT campus De Wijnaert",
+        "coordinates": "415066.0392, 6630563.9486",
+        "geo_punt": [51.05237760012509, 3.7286016693231234],
+        "y_coordinate": "6630563.9486",
+        "adres": "Geraard de Duivelstraat 5, 9000 Gent",
+        "titel": "Muziekbibliotheek",
+        "teaser_img_url": "https://www.hogent.be/sites/hogent/assets/File/Campusbeelden/wijnaert.jpg",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "415066.0392",
+        "totale_capaciteit": 15,
+        "id": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7286016693231234, 51.05237760012509]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "64e3d9b07af8cabc5fc9d968a7055193db3ee9ab",
+      "fields": {
+        "geo_punt": [51.055526700271635, 3.7191855518711794],
+        "y_coordinate": "6631121.6367",
+        "adres": "Drabstraat 18, 9000 Gent",
+        "titel": "OverKop",
+        "teaser_img_url": "https://i.ibb.co/x6pfX9R/overkop.jpg",
+        "tag_2": "Weekend, 's Avonds",
+        "gereserveerde_plaatsen": 2,
+        "x_coordinate": "414017.8418",
+        "totale_capaciteit": 25,
+        "datum_reservatie": "2022-12-18",
+        "id": 67,
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/67",
+        "tag_1": "Reserveerbaar",
+        "label_1": "OverKop",
+        "coordinates": "414017.8418, 6631121.6367",
+        "teaser_text": "Reservatie voor week 19/12/2022 kan vanaf 12/12/2022 om 00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7191855518711794, 51.055526700271635]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "94794faaed36fbfd56fbbb866db4fcd41e8d8879",
+      "fields": {
+        "geo_punt": [51.055391200137755, 3.7381066085970995],
+        "y_coordinate": "6631097.6396",
+        "adres": "Kazemattenstraat 17, 9000 Gent",
+        "titel": "De Kazematten (Foyer)",
+        "teaser_img_url": "https://i.ibb.co/zNq6r15/kazematten.png",
+        "tag_2": "Morgen nog beschikbaar, Week",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "416124.1242",
+        "totale_capaciteit": 10,
+        "datum_reservatie": "2022-12-12",
+        "id": 62,
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/62",
+        "tag_1": "Reserveerbaar",
+        "label_1": "Kazematten",
+        "coordinates": "416124.1242, 6631097.6396",
+        "teaser_text": "Reservatie voor week 19/12/2022 kan vanaf 14/12/2022 om 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7381066085970995, 51.055391200137755]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "eeecf931ed92fe3037ef9f2d9e08492d151f154a",
+      "fields": {
+        "geo_punt": [51.04862245003593, 3.702355713837882],
+        "y_coordinate": "6629898.982",
+        "adres": "Watersportlaan 4, 9000 Gent",
+        "titel": "Campus Watersportbaan Arteveldehogeschool",
+        "teaser_img_url": "https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/watersportbaan.jpg",
+        "tag_2": "Morgen nog beschikbaar, Week, 's Avonds",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "412144.3528",
+        "totale_capaciteit": 50,
+        "datum_reservatie": "2022-12-12",
+        "id": 82,
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/82",
+        "tag_1": "Reserveerbaar",
+        "label_1": "Campus Watersportbaan",
+        "coordinates": "412144.3528, 6629898.982",
+        "teaser_text": "Reservatie voor week 19/12/2022 kan vanaf 12/12/2022 om 09:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.702355713837882, 51.04862245003593]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    },
+    {
+      "datasetid": "bloklocaties-gent",
+      "recordid": "47ed26ad4365bf9566747f65cb3f1d37a573acb9",
+      "fields": {
+        "lees_meer": "https://bloklocaties.stad.gent/dashboard/69",
+        "label_1": "Herberg Macharius",
+        "coordinates": "415873.5876, 6630673.1951",
+        "geo_punt": [51.05299449974206, 3.7358560000269865],
+        "y_coordinate": "6630673.1951",
+        "adres": "Coyendanspark 1, 9000 Gent",
+        "titel": "Herberg Macharius",
+        "teaser_img_url": "https://i.ibb.co/0Ct5Lmp/herberg-pano.jpg",
+        "gereserveerde_plaatsen": 0,
+        "x_coordinate": "415873.5876",
+        "totale_capaciteit": 15,
+        "id": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7358560000269865, 51.05299449974206]
+      },
+      "record_timestamp": "2022-12-11T21:45:50.838Z"
+    }
+  ]
+}
